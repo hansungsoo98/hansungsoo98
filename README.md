@@ -1,6 +1,6 @@
 ### About me
 
-<h1 align="center">I'm Sungsoo Han, a Hardware Engineer who makes dreams come true</h1>
+<h1 align="center">I'm Sungsoo Han, a Hardware Engineer making dreams come true</h1>
 <h3 align="center">I am preparing to become a hardware engineer who will change the world.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hansungsoo98&label=Profile%20views&color=0e75b6&style=flat" alt="hansungsoo98" /> </p>
